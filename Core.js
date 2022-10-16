@@ -5719,12 +5719,12 @@ Ohh i see 👀💖...`;
       case "lovelycheck":
       case "uglycheck":
       case "racistcheck":
-	    case "funnycheck":
-	    case "loyalcheck":
-	    case "sexycheck":
-	    case "evilcheck":
-	    case "kindcheck":
-	    case "weebcheck":
+      case "funnycheck":
+      case "loyalcheck":
+      case "sexycheck":
+      case "evilcheck":
+      case "kindcheck":
+      case "weebcheck":
         if (isBan) return reply(mess.banned);
         if (isBanChat) return reply(mess.bangc);
         if (!text)
@@ -5953,7 +5953,9 @@ Ohh i see 👀💖...`;
           "send abusive words in any grup, excepting this grup, and send screenshot proof here",
         ];
         const Mikudareww = dare[Math.floor(Math.random() * dare.length)];
-        buffer = await getBuffer(`https://thumbs.gfycat.com/FrankCluelessIvorygull-size_restricted.gif`);
+        buffer = await getBuffer(
+          `https://thumbs.gfycat.com/FrankCluelessIvorygull-size_restricted.gif`
+        );
         Miku.sendMessage(
           from,
           { image: buffer, caption: "*You have chosen Dare*\n\n" + Mikudareww },
@@ -6056,7 +6058,9 @@ Ohh i see 👀💖...`;
           "do you play pubg, if you then send ur id number",
         ];
         const mikutruthww = truth[Math.floor(Math.random() * truth.length)];
-        buffer = await getBuffer(`https://i.pinimg.com/originals/58/c4/b6/58c4b6a5eb589e6e1cdd0ad6b49c662d.gif`);
+        buffer = await getBuffer(
+          `https://i.pinimg.com/originals/58/c4/b6/58c4b6a5eb589e6e1cdd0ad6b49c662d.gif`
+        );
         Miku.sendMessage(
           from,
           { image: buffer, caption: "*You have chosen Truth*\n" + mikutruthww },
@@ -7203,6 +7207,205 @@ break
         }
         break;
 
+      case "runtime":
+        {
+          if (global[_0x2379bf(0xc7)] == "true") {
+            if (!_0x5882aa[_0x2379bf(0x12c)])
+              return _0x191609("" + global[_0x2379bf(0x41e)]);
+          }
+          _0x5882aa[_0x2379bf(0x231)](
+            _0x2379bf(0x5c1) +
+              botname +
+              _0x2379bf(0x307) +
+              runtime(process[_0x2379bf(0x324)]()) +
+              "_"
+          );
+        }
+        break;
+
+      case _0x2379bf(0x348):
+      case "christmas":
+      case "3dchristmas":
+      case _0x2379bf(0xec):
+      case _0x2379bf(0x5ad):
+      case "scifi":
+      case _0x2379bf(0x14c):
+      case "waterpipe":
+      case "spooky":
+      case _0x2379bf(0x52b):
+      case _0x2379bf(0x4f4):
+      case _0x2379bf(0x305):
+      case _0x2379bf(0x484):
+      case _0x2379bf(0x490):
+      case _0x2379bf(0x285):
+      case _0x2379bf(0x3c5):
+      case "berry":
+      case "thunder":
+      case ".":
+      case _0x2379bf(0x26e):
+      case _0x2379bf(0x172):
+      case _0x2379bf(0x252):
+      case _0x2379bf(0x4b2):
+      case "brokenglass":
+      case _0x2379bf(0x58e):
+      case _0x2379bf(0x192):
+      case _0x2379bf(0x475):
+      case _0x2379bf(0x1e9):
+      case _0x2379bf(0x50d):
+      case "graffitibike":
+      case _0x2379bf(0x287):
+      case _0x2379bf(0x2ce):
+      case "honey":
+      case _0x2379bf(0x62b):
+      case _0x2379bf(0x5f1):
+      case "biscuit":
+      case _0x2379bf(0x17f):
+      case _0x2379bf(0x529):
+      case _0x2379bf(0x4e5):
+      case _0x2379bf(0x4de):
+      case "blood":
+      case _0x2379bf(0x59e):
+      case "toxic":
+      case _0x2379bf(0x18f):
+      case _0x2379bf(0x65f):
+      case "bloodglas":
+      case "halloween":
+      case _0x2379bf(0x460):
+      case _0x2379bf(0x508):
+      case "wicker":
+      case _0x2379bf(0x38a):
+      case _0x2379bf(0x2e4):
+      case _0x2379bf(0x261):
+      case _0x2379bf(0x677):
+      case "glue":
+      case _0x2379bf(0x416):
+      case _0x2379bf(0x3ab):
+      case "demon":
+        {
+          if (global[_0x2379bf(0xc7)] == "true") {
+            if (!_0x5882aa[_0x2379bf(0x12c)])
+              return _0x191609("" + global["inbblmsg"]);
+          }
+          _0x3c6f67[_0x2379bf(0x216)](_0x5882aa[_0x2379bf(0x381)], {
+            react: { text: _0x2379bf(0x4a3), key: _0x5882aa["key"] },
+          });
+          if (!q)
+            return _0x191609(
+              _0x2379bf(0x1f2) + (_0x36556c + _0x3cc7d5) + "\x20Lelouch"
+            );
+          _0x191609(mess["wait"]);
+          let _0x21ebde;
+          if (/candy/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x2a4);
+          if (/christmas/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0xa5);
+          if (/3dchristmas/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x3d4);
+          if (/sparklechristmas/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x449);
+          if (/deepsea/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x5b4);
+          if (/scifi/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x500);
+          if (/rainbow/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde =
+              "https://textpro.me/3d-rainbow-color-calligraphy-text-effect-1049.html";
+          if (/waterpipe/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x5ec);
+          if (/spooky/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x1b3);
+          if (/pencil/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x2e1);
+          if (/circuit/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x674);
+          if (/discovery/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x2dc);
+          if (/metalic/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde =
+              "https://textpro.me/creat-glossy-metalic-text-effect-free-online-1040.html";
+          if (/fiction/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x4f6);
+          if (/demon/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x589);
+          if (/transformer/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde =
+              "https://textpro.me/create-a-transformer-text-effect-online-1035.html";
+          if (/berry/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x110);
+          if (/thunder/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde =
+              "https://textpro.me/online-thunder-text-effect-generator-1031.html";
+          if (/magma/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x4ae);
+          if (/3dstone2/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x4e4);
+          if (/neonlight/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x281);
+          if (/glitch/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x338);
+          if (/harrypotter/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x599);
+          if (/brokenglass/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x562);
+          if (/papercut/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x3d5);
+          if (/watercolor/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x1bb);
+          if (/multicolor/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x1df);
+          if (/neondevil/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x27f);
+          if (/underwater/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x5d8);
+          if (/graffitibike/["test"](_0x3cc7d5))
+            _0x21ebde =
+              "https://textpro.me/create-wonderful-graffiti-art-text-effect-1011.html";
+          if (/snow/[_0x2379bf(0x265)](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x320);
+          if (/cloud/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x439);
+          if (/honey/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x624);
+          if (/ice/[_0x2379bf(0x265)](_0x3cc7d5)) _0x21ebde = _0x2379bf(0xf2);
+          if (/fruitjuice/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x4d8);
+          if (/biscuit/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x49f);
+          if (/wood/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x3d0);
+          if (/chocolate/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x18a);
+          if (/strawberry/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde =
+              "https://textpro.me/strawberry-text-effect-online-889.html";
+          if (/matrix/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x2e8);
+          if (/blood/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x1fa);
+          if (/dropwater/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = "https://textpro.me/dropwater-text-effect-872.html";
+          if (/toxic/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = "https://textpro.me/toxic-text-effect-online-901.html";
+          if (/lava/[_0x2379bf(0x265)](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x4a1);
+          if (/rock/[_0x2379bf(0x265)](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x474);
+          if (/bloodglas/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x601);
+          if (/halloween/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x503);
+          if (/darkgold/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x4cb);
+          if (/joker/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x5cd);
+          if (/wicker/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = "https://textpro.me/wicker-text-effect-online-932.html";
+          if (/firework/["test"](_0x3cc7d5))
+            _0x21ebde =
+              "https://textpro.me/firework-sparkle-text-effect-930.html";
+          if (/skeleton/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x397);
+          if (/blackpink/[_0x2379bf(0x265)](_0x3cc7d5))
+            _0x21ebde = _0x2379bf(0x159);
+          if (/sand/[_0x2379bf(0x265)](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x596);
+          if (/glue/[_0x2379bf(0x265)](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x145);
+          if (/1917/[_0x2379bf(0x265)](_0x3cc7d5)) _0x21ebde = _0x2379bf(0xf7);
+          if (/leaves/["test"](_0x3cc7d5)) _0x21ebde = _0x2379bf(0x177);
+          let _0x4634d1 = await maker[_0x2379bf(0x21e)](_0x21ebde, q);
+          _0x3c6f67[_0x2379bf(0x216)](
+            _0x5882aa["chat"],
+            { image: { url: _0x4634d1 }, caption: _0x2379bf(0x2d4) },
+            { quoted: _0x5882aa }
+          );
+        }
+        break;
+
       case "help":
       case "h":
       case "menu":
@@ -7234,7 +7437,7 @@ Je suis *Lelouch* un bot crée par mon magnifique proprio *Pelpav*
 ║ ${prefix}script
 ║ ${prefix}rules
 ║ ${prefix}speak
-║
+║ ${prefix}runtime
 ╚════════════╝ 
 ╔════⧫🎀𝑶𝒘𝒏𝒆𝒓🎀
 ║
@@ -7448,6 +7651,18 @@ Je suis *Lelouch* un bot crée par mon magnifique proprio *Pelpav*
 ║ ${prefix}rules 
 ║
 ╚════════════╝
+
+╔════⧫🎨Text🎨
+║
+║ ${prefix}3dchristmas
+║ ${prefix}toorainbow2
+║ ${prefix}spooky
+║ ${prefix}glitch
+║ ${prefix}neondevil
+║ ${prefix}snow
+║ ${prefix}cloud
+║
+╚════════════╝
  
 ╔════⧫🐬𝑬𝒔𝒔𝒆𝒏𝒕𝒊𝒂𝒍/𝑶𝒕𝒉𝒆𝒓𝒔🐬
 ║
@@ -7626,7 +7841,7 @@ Je suis *Lelouch* un bot crée par mon magnifique proprio *Pelpav*
           headerType: 4,
         };
         await Miku.sendMessage(m.chat, bmffg, { quoted: m }).catch((err) => {
-          return "Error!";
+          return "Erreur!";
         });
         break;
 
@@ -7635,7 +7850,7 @@ Je suis *Lelouch* un bot crée par mon magnifique proprio *Pelpav*
           if (isBan) return reply(mess.banned);
           if (isBanChat) return reply(mess.bangc);
           reply(
-            `No such command programmed *${pushname}* senpai! Type *${prefix}help* to get my full command list!`
+            `No such command programmed *${pushname}* ! Type *${prefix}help* to get my full command list!`
           );
         }
 
